@@ -1,0 +1,13 @@
+*{
+
+}
+.center{
+    border: solid 1px black;
+    margin: auto;
+    padding-left: 45%;
+    background-color:  gray;
+}
+input ,button{
+   height: 30px;
+   width: 300px;
+}
